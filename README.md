@@ -1,3 +1,6 @@
+_This is document is_ __WIP__ _. Please consider this as a pre-alpha draft
+of the final proposal_
+
 Multidimensional Abstract Syntax Tree or AS*-Tree
 =======
 
